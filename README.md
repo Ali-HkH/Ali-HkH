@@ -4,7 +4,7 @@
 
 - I’m currently working with html,&nbsp; css(bootstrap),&nbsp; javascript,&nbsp; and also learning React library.👀
 
-- I'm also a software engineer Student at Azad Sari uni👨‍🎓
+- I'm also a software engineer student at  Sari Azad uni👨‍🎓
 
 - I also had worked a little with c++ and java😁
 

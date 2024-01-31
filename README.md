@@ -2,7 +2,7 @@
 
 - A junior frontend Developer.👨‍💻
 
-- I’m currently working with html, css(bootstrap),   js, and also learning React library.👀
+- I’m currently working with html,&nbsp; css(bootstrap),&nbsp; javascript,&nbsp; and also learning React library.👀
 
 - I'm also a software engineer Student at Azad Sari uni👨‍🎓
 

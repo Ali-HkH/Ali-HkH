@@ -1,13 +1,13 @@
 ### Hi there👋 I'm Ali😃
 
-> A junior frontend Developer.👨‍💻
+- A junior frontend Developer.👨‍💻
 
-> I’m currently working with html, css(bootstrap),   js, and also learning React library.👀
+- I’m currently working with html, css(bootstrap),   js, and also learning React library.👀
 
-> I'm also a software engineer Student at Azad Sari uni👨‍🎓
+- I'm also a software engineer Student at Azad Sari uni👨‍🎓
 
-> I also had worked a little with c++ and java😁
->
+- I also had worked a little with c++ and java😁
+
 > <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
 
 ### Tools that I use for Develop: 

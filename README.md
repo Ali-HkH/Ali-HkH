@@ -18,4 +18,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### How to reach me 📞
+<a href="https://instagram.com/alii__hkh"><img src="https://github.com/Ali-HkH/Ali-HkH/blob/main/icons8-instagram.png?raw=true"></a>
+<a href="https://t.me/AliHkH2k"><img src="https://github.com/Ali-HkH/Ali-HkH/blob/main/icons8-instagram.png?raw=true"></a>
 

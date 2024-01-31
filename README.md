@@ -20,6 +20,6 @@
 ### How to reach me:
 <a href="https://instagram.com/alii__hkh"><img src="https://github.com/Ali-HkH/Ali-HkH/blob/main/icons8-instagram.png?raw=true"></a>
 <a href="https://t.me/AliHkH2k"><img src="https://github.com/Ali-HkH/Ali-HkH/blob/main/icons8-telegram.png?raw=true"></a>
-<a href="https://www.linkedin.com/feed/"><img src="https://github.com/Ali-HkH/Ali-HkH/blob/main/icons8-linked-in.png?raw=true"></a>
+<a href="https://linkedin.com/in/ali-hkh-a8a0462a1"><img src="https://github.com/Ali-HkH/Ali-HkH/blob/main/icons8-linked-in.png?raw=true"></a>
 
 

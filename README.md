@@ -1,12 +1,12 @@
 ## Hi there👋 I'm Ali😃
 
-- A junior frontend Dev seeking for adventure and experience in coding👨‍💻
+- A junior frontend developer seeking for adventure and experience in coding👨‍💻
 
 - I’m currently coding with js and it's libraries like Reactjs and Nextjs👀
   
 - I'm super excited and always open to dive into web projects!🔥
   
-- SoftwareEng student at  Sari Azad Uni👨‍🎓
+- Bachelor of softwareEng at Sari IAU👨‍🎓
 
 - I also had a little taste of c++ and java😁
 
